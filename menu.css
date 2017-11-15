@@ -56,7 +56,10 @@ header{
     .menu-h li{
     list-style: none;
     display: inline;
+<<<<<<< HEAD
     float: left;  
+=======
+>>>>>>> f10a8005067c4ea4c39ca968487884492649e75a
     padding: 55px 60px 55px 60px;
     text-align: center;
     width: 20%;
